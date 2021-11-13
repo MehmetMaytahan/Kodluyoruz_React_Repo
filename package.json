@@ -1,0 +1,25 @@
+{
+  "name": "kodluyoruz_react_repo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "type": "module",
+  "dependencies": {
+    "axios": "^0.24.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MehmetMaytahan/Kodluyoruz_React_Repo.git"
+  },
+  "author": "Mehmet Maytahan >> maytahan71@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MehmetMaytahan/Kodluyoruz_React_Repo/issues"
+  },
+  "homepage": "https://github.com/MehmetMaytahan/Kodluyoruz_React_Repo#readme"
+}
